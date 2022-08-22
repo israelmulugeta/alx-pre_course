@@ -1,1 +1,1 @@
-My first readme
+my read me inside the alx-pre_course repo 
